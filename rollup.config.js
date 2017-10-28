@@ -2,7 +2,7 @@ import babel from 'rollup-plugin-babel'
 import nodeResolve from 'rollup-plugin-node-resolve'
 
 export default {
-  input: 'src/js/admob.js',
+  input: 'src/js/beck24amf.js',
   output: {
     format: 'cjs',
   },

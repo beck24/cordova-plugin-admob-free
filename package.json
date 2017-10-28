@@ -10,7 +10,7 @@
     "test:cordova": "cordova-test",
     "test:js": "jest",
     "version": "sync-package-version --cordova-plugin",
-    "build": "cross-env NODE_ENV=production rollup -c -o www/admob.js",
+    "build": "cross-env NODE_ENV=production rollup -c -o www/beck24amf.js",
     "clean": "rimraf coverage dist www",
     "docs": "run-s docs:*",
     "docs:esdoc": "esdoc -c esdoc.json",
